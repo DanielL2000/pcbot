@@ -16,3 +16,6 @@ Sequential Model
 7. Dropout Layer
 8. Dense Layer
 9. Binary Cross-Entropy Loss
+
+## Training Data
+Human-labeled Wikipedia comments from Kaggle.com's Toxic Comment Classification Challenge
